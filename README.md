@@ -4,5 +4,5 @@ Webpage dashboard created to visualize the bacteria data for each volunteer.  Ea
 Customizations have been added to the webpage:  1) Background image for the jumbotron, 2) Background color has been added to the webpage, 3) Font customized for the jumbotron to align with the image added.
 
 #### Website Screenshot 
-![](images/website.png)
+![](images/Webpage.png)
 
