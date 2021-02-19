@@ -3,6 +3,8 @@ Webpage dashboard created to visualize the bacteria data for each volunteer.  Ea
 
 Customizations have been added to the webpage:  1) Background image for the jumbotron, 2) Background color has been added to the webpage, 3) Font customized for the jumbotron to align with the image added, 4)Image added to show the Website view in an iPadPro.
 
+Website can be navigated to:  https://fchoi0505.github.io/Belly_Button/
+
 #### Website Screenshot 
 ![](images/Webpage.png)
 
